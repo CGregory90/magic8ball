@@ -12,7 +12,7 @@ function AskMe() {
         alert("Please enter a question!");
     } else if (question.value != "") {
         console.log(answers[random])
-        imgAnswers.src = "/img/" + answers[random]
+        imgAnswers.src = "./img/" + answers[random]
         return answers[random]
     }
 }
