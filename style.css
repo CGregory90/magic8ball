@@ -7,7 +7,7 @@ font-family: 'Smooch', cursive; */
     box-sizing: border-box;
 }
 .container {
-    background-image: url(/img/magicportal.jpg);
+    background-image: url(./img/magicportal.jpg);
     background-repeat: no-repeat;
     background-size: Center;
     z-index: 1;
